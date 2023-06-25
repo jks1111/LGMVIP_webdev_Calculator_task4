@@ -2,10 +2,10 @@
 used HTML,CSS and JavaScript  
 
 Calculator can perform following operation
-(+):to sum
-(-): to difference
-(/): to divide
-(*): to multiply
-(sqrt):to square root 
-(|):to bitwise OR
-(~):To Bitwise NOT
+(+):to sum , 
+(-): to difference , 
+(/): to divide , 
+(*): to multiply , 
+(sqrt):to square root ,
+(|):to bitwise OR , 
+(~):To Bitwise NOT 
