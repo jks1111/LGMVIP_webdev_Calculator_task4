@@ -46,18 +46,9 @@ html, body {
    }
   
   
-  
-  .mx-auto{
-    margin: auto;
-  }
-  
-  .flex{
+ .items{
     display:flex;
-  } 
-  .flex-col{
     flex-direction: column;
-  }
-  
-  .items{
     align-items: center;
+    margin: auto;
   }
