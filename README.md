@@ -1,4 +1,4 @@
-# LGMVIP_webdev_Calculator_task4
+# webdev_Calculator_task4
 used HTML,CSS and JavaScript  
 
 Calculator can perform following operation
